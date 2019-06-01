@@ -1,0 +1,8 @@
+{
+    "android": {
+        "v8Flags": "--expose_gc"
+    },
+    "main": "bundle",
+    "name": "trusty",
+    "version": "1.0.0"
+}

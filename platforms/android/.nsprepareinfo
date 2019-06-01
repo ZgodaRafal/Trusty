@@ -1,0 +1,20 @@
+{
+	"nativePlatformStatus": "3",
+	"appFilesHashes": {
+		"C:\\Users\\RafaL\\Downloads\\Trusty\\app\\fonts\\.gitkeep": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+		"C:\\Users\\RafaL\\Downloads\\Trusty\\app\\app.scss": "4d270169be7912a094c9782892a0562cf9b0d8f4",
+		"C:\\Users\\RafaL\\Downloads\\Trusty\\app\\components\\Login.vue": "e1d7a3b08a5a7d7f70a65d9c4f7703c99226bf9e",
+		"C:\\Users\\RafaL\\Downloads\\Trusty\\app\\components\\Home.vue": "e048dcf641b03bcd273aaaa78df982e5679b19c3",
+		"C:\\Users\\RafaL\\Downloads\\Trusty\\app\\assets\\images\\NativeScript-Vue.png": "31f09bdba72293198ee2e2a83c4fe5aa5744bc3d",
+		"C:\\Users\\RafaL\\Downloads\\Trusty\\app\\components\\Swipeable.vue": "324b0b7a7bc40299d6513867e51fdcad42cfd13a",
+		"C:\\Users\\RafaL\\Downloads\\Trusty\\app\\main.ts": "b49983f7ffda306eb1abb75156f8d748809766d6",
+		"C:\\Users\\RafaL\\Downloads\\Trusty\\app\\store.ts": "e0a5bcdb5de1b665c641969a577be22141576c4f",
+		"C:\\Users\\RafaL\\Downloads\\Trusty\\app\\package.json": "0aef59a8c3d70b3a2c75b7774fae0deb5ec59cc6"
+	},
+	"release": false,
+	"bundle": true,
+	"changesRequireBuild": false,
+	"time": "Sun Jun 02 2019 00:01:26 GMT+0200 (GMT+02:00)",
+	"changesRequireBuildTime": "Sat Jun 01 2019 23:50:29 GMT+0200 (GMT+02:00)",
+	"projectFileHash": "c184983cb9a103ec1fe81f759d71dae2308445df160f414e7dd70e954f8efb34"
+}

@@ -1,6 +1,7 @@
-# NativeScript-Vue Application
 
-> A native application built with NativeScript-Vue
+# Trusty
+
+A mobile game based on cooperation or betrayal taking into account a profile photo.
 
 ## Usage
 

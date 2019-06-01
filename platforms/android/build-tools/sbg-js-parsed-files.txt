@@ -1,0 +1,3 @@
+C:\Users\RafaL\Downloads\Trusty\platforms\android\app\src\main\assets\app\bundle.js
+C:\Users\RafaL\Downloads\Trusty\platforms\android\app\src\main\assets\app\tns-java-classes.js
+C:\Users\RafaL\Downloads\Trusty\platforms\android\app\src\main\assets\app\vendor.js
